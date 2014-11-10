@@ -1,1 +1,4 @@
-I love Ruby and JavaScript!
+My deadly skills are:
+* HTML
+* CSS
+* Javascript
