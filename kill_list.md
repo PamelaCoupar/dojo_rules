@@ -6,4 +6,5 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Code without test code
-* Unrefactored code 
+* Unrefactored code
+* Methods that are too long 
